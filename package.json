@@ -1,0 +1,22 @@
+{
+  "name": "dcompose-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/omsmith/dcompose-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omsmith/dcompose-test/issues"
+  },
+  "homepage": "https://github.com/omsmith/dcompose-test",
+  "devDependencies": {
+    "dcompose": "^0.13.2"
+  }
+}
